@@ -1,0 +1,3 @@
+#DERP!
+() { :; };
+#Yeah... It's because I kept of forgetting the basics in the beginning so...
